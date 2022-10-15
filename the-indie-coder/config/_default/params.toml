@@ -20,7 +20,7 @@ enableCodeCopy = true
   showThemeAttribution = true
   showAppearanceSwitcher = true
   showScrollToTop = true
-  #<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=code&position=9&from_view=search&track=sph">Image by rawpixel.com</a> on Freepik
+  
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, custom
